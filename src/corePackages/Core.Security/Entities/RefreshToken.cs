@@ -6,6 +6,9 @@ public class RefreshToken : Entity<int>
 {
     public int UserId { get; set; }
     public string Token { get; set; }
+
+    public DateTime Created { get; set; }
+    
     public DateTime Expires { get; set; }
     public string CreatedByIp { get; set; }
     public DateTime? Revoked { get; set; }

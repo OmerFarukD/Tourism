@@ -15,12 +15,12 @@ public static class PersistenceServiceRegistration
         {
             opt.UseSqlServer(configuration.GetConnectionString("SqlConnection"));
         });
-
         services.AddScoped<IUserRepository, UserRepository>();
         services.AddScoped<IRefreshTokenRepository, RefreshTokenRepository>();
         services.AddScoped<IOtpAuthenticatorRepository, OtpAuthenticatorRepository>();
         services.AddScoped<IOperationClaimRepository, OperationClaimRepository>();
         services.AddScoped<IEmailAuthenticatorRepository, EmailAuthenticatorRepository>();
+        services.AddScoped<IUserOperationClaimRepository, UserOperationClaimRepository>();
         return services;
     } 
 }

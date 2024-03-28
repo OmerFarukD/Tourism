@@ -15,7 +15,93 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7fc7567-8b5c-4905-a2b1-06a290ac5fdc" name="Changes" comment="" />
+    <list default="true" id="a7fc7567-8b5c-4905-a2b1-06a290ac5fdc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/project/Persistence/Repository/Abstract/IUserOperationClaimRepository.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/project/Persistence/Repository/Concrete/UserOperationClaimRepository.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/project/Services/Abstracts/IAuthService.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/project/Services/Abstracts/IUserService.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/project/Services/Concretes/AuthManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/project/Services/Concretes/UserService.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/project/Services/Constants/Messages.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/ProjectEvaluation/tourism.metadata.v7.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/ProjectEvaluation/tourism.metadata.v7.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/ProjectEvaluation/tourism.projects.v7.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/ProjectEvaluation/tourism.projects.v7.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/Tourism/DesignTimeBuild/.dtbcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Tourism/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/Tourism/FileContentIndex/0f0dfb6f-aa84-4958-8050-f846788994e5.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/Tourism/v17/.futdcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Tourism/v17/.futdcache.v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/Tourism/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Tourism/v17/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/corePackages/Core.CrossCuttingConcerns/bin/Debug/net7.0/Core.CrossCuttingConcerns.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/corePackages/Core.CrossCuttingConcerns/bin/Debug/net7.0/Core.CrossCuttingConcerns.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/corePackages/Core.CrossCuttingConcerns/bin/Debug/net7.0/Core.CrossCuttingConcerns.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/corePackages/Core.CrossCuttingConcerns/bin/Debug/net7.0/Core.CrossCuttingConcerns.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/corePackages/Core.CrossCuttingConcerns/obj/Debug/net7.0/Core.CrossCuttingConcerns.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/corePackages/Core.CrossCuttingConcerns/obj/Debug/net7.0/Core.CrossCuttingConcerns.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/corePackages/Core.CrossCuttingConcerns/obj/Debug/net7.0/Core.CrossCuttingConcerns.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/corePackages/Core.CrossCuttingConcerns/obj/Debug/net7.0/Core.CrossCuttingConcerns.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/corePackages/Core.CrossCuttingConcerns/obj/Debug/net7.0/Core.CrossCuttingConcerns.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/corePackages/Core.CrossCuttingConcerns/obj/Debug/net7.0/Core.CrossCuttingConcerns.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/corePackages/Core.CrossCuttingConcerns/obj/Debug/net7.0/Core.CrossCuttingConcerns.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/corePackages/Core.CrossCuttingConcerns/obj/Debug/net7.0/Core.CrossCuttingConcerns.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/corePackages/Core.CrossCuttingConcerns/obj/Debug/net7.0/Core.CrossCuttingConcerns.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/corePackages/Core.CrossCuttingConcerns/obj/Debug/net7.0/Core.CrossCuttingConcerns.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/corePackages/Core.CrossCuttingConcerns/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/src/corePackages/Core.CrossCuttingConcerns/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/corePackages/Core.CrossCuttingConcerns/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/src/corePackages/Core.CrossCuttingConcerns/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/corePackages/Core.Persistence/bin/Debug/net7.0/Core.Persistence.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/corePackages/Core.Persistence/bin/Debug/net7.0/Core.Persistence.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/corePackages/Core.Persistence/bin/Debug/net7.0/Core.Persistence.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/corePackages/Core.Persistence/bin/Debug/net7.0/Core.Persistence.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/corePackages/Core.Persistence/obj/Debug/net7.0/Core.Persistence.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/corePackages/Core.Persistence/obj/Debug/net7.0/Core.Persistence.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/corePackages/Core.Persistence/obj/Debug/net7.0/Core.Persistence.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/corePackages/Core.Persistence/obj/Debug/net7.0/Core.Persistence.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/corePackages/Core.Persistence/obj/Debug/net7.0/Core.Persistence.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/corePackages/Core.Persistence/obj/Debug/net7.0/Core.Persistence.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/corePackages/Core.Persistence/obj/Debug/net7.0/Core.Persistence.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/corePackages/Core.Persistence/obj/Debug/net7.0/Core.Persistence.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/corePackages/Core.Persistence/obj/Debug/net7.0/Core.Persistence.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/corePackages/Core.Persistence/obj/Debug/net7.0/Core.Persistence.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/corePackages/Core.Persistence/obj/Debug/net7.0/Core.Persistence.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/corePackages/Core.Persistence/obj/Debug/net7.0/Core.Persistence.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/corePackages/Core.Persistence/obj/Debug/net7.0/Core.Persistence.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/corePackages/Core.Persistence/obj/Debug/net7.0/Core.Persistence.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/corePackages/Core.Persistence/obj/Debug/net7.0/ref/Core.Persistence.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/corePackages/Core.Persistence/obj/Debug/net7.0/ref/Core.Persistence.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/corePackages/Core.Persistence/obj/Debug/net7.0/refint/Core.Persistence.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/corePackages/Core.Persistence/obj/Debug/net7.0/refint/Core.Persistence.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/corePackages/Core.Persistence/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/src/corePackages/Core.Persistence/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/corePackages/Core.Persistence/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/src/corePackages/Core.Persistence/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/corePackages/Core.Security/Entities/RefreshToken.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/corePackages/Core.Security/Entities/RefreshToken.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/corePackages/Core.Security/obj/Debug/net7.0/Core.Security.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/corePackages/Core.Security/obj/Debug/net7.0/Core.Security.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/corePackages/Core.Security/obj/Debug/net7.0/Core.Security.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/corePackages/Core.Security/obj/Debug/net7.0/Core.Security.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/corePackages/Core.Security/obj/Debug/net7.0/Core.Security.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/corePackages/Core.Security/obj/Debug/net7.0/Core.Security.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/corePackages/Core.Security/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/src/corePackages/Core.Security/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/corePackages/Core.Security/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/src/corePackages/Core.Security/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/Admin.UI/Admin.UI.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/Admin.UI/Admin.UI.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/Admin.UI/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/Admin.UI/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/Admin.UI/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/Admin.UI/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/Admin.UI/obj/Admin.UI.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/Admin.UI/obj/Admin.UI.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/Admin.UI/obj/Admin.UI.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/Admin.UI/obj/Admin.UI.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/Admin.UI/obj/Admin.UI.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/Admin.UI/obj/Admin.UI.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/Admin.UI/obj/Debug/net7.0/Admin.UI.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/Admin.UI/obj/Debug/net7.0/Admin.UI.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/Admin.UI/obj/Debug/net7.0/Admin.UI.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/Admin.UI/obj/Debug/net7.0/Admin.UI.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/Admin.UI/obj/Debug/net7.0/Admin.UI.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/Admin.UI/obj/Debug/net7.0/Admin.UI.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/Admin.UI/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/Admin.UI/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/Admin.UI/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/Admin.UI/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/Admin.UI/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/Admin.UI/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/Admin.UI/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/Admin.UI/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/Admin.UI/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/Admin.UI/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/Models/Models.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/Models/Models.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/Models/obj/Debug/net7.0/Models.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/Models/obj/Debug/net7.0/Models.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/Models/obj/Debug/net7.0/Models.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/Models/obj/Debug/net7.0/Models.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/Models/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/Models/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/Models/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/Models/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/Persistence/PersistenceServiceRegistration.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/Persistence/PersistenceServiceRegistration.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/Persistence/obj/Debug/net7.0/Persistence.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/Persistence/obj/Debug/net7.0/Persistence.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/Persistence/obj/Debug/net7.0/Persistence.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/Persistence/obj/Debug/net7.0/Persistence.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/Persistence/obj/Debug/net7.0/Persistence.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/Persistence/obj/Debug/net7.0/Persistence.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/Persistence/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/Persistence/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/Persistence/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/Persistence/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/Services/Services.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/Services/Services.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/Services/obj/Debug/net7.0/Services.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/Services/obj/Debug/net7.0/Services.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/Services/obj/Debug/net7.0/Services.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/Services/obj/Debug/net7.0/Services.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/Services/obj/Debug/net7.0/Services.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/Services/obj/Debug/net7.0/Services.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/Services/obj/Debug/net7.0/Services.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/Services/obj/Debug/net7.0/Services.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/Services/obj/Services.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/Services/obj/Services.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/Services/obj/Services.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/Services/obj/Services.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/Services/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/Services/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/Services/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/Services/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/Services/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/Services/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/Services/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/Services/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/Services/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/Services/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/Web.API/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/Web.API/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/Web.API/obj/Debug/net7.0/Web.API.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/Web.API/obj/Debug/net7.0/Web.API.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/Web.API/obj/Debug/net7.0/Web.API.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/Web.API/obj/Debug/net7.0/Web.API.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/Web.API/obj/Debug/net7.0/Web.API.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/Web.API/obj/Debug/net7.0/Web.API.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/Web.API/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/Web.API/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/Web.API/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/Web.API/obj/rider.project.restore.info" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,6 +113,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -204,14 +291,28 @@
       <workItem from="1710100830528" duration="6647000" />
       <workItem from="1710253056436" duration="1332000" />
       <workItem from="1710254995755" duration="10360000" />
-      <workItem from="1710360538536" duration="3970000" />
+      <workItem from="1710360538536" duration="4892000" />
+      <workItem from="1711300054227" duration="2392000" />
+      <workItem from="1711626150143" duration="709000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
