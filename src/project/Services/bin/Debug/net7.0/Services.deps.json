@@ -9,6 +9,7 @@
       "Services/1.0.0": {
         "dependencies": {
           "Core.CrossCuttingConcerns": "1.0.0",
+          "Models": "1.0.0",
           "Persistence": "1.0.0"
         },
         "runtime": {
@@ -1297,6 +1298,15 @@
           "Core.Security.dll": {}
         }
       },
+      "Models/1.0.0": {
+        "dependencies": {
+          "Core.Persistence": "1.0.0",
+          "Core.Security": "1.0.0"
+        },
+        "runtime": {
+          "Models.dll": {}
+        }
+      },
       "Persistence/1.0.0": {
         "dependencies": {
           "Core.Security": "1.0.0",
@@ -2154,6 +2164,11 @@
       "sha512": ""
     },
     "Core.Security/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Models/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

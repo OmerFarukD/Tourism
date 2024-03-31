@@ -5,7 +5,7 @@ namespace Services.Abstracts;
 public interface IUserService
 {
     Task<User> AddAsync(User user);
-    Task<User> GetByEmailAsync(string email);
+    Task<User> GetByEmailAsync(string email,CancellationToken cancellationToken);
     Task<List<User>> GetAllAsync();
     Task<User> GetByIdAsync(int id);
     Task<User> DeleteUserAsync(int id);

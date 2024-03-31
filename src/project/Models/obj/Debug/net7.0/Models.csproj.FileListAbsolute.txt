@@ -10,3 +10,9 @@ C:\Users\omerc\RiderProjects\Tourism\src\project\Models\obj\Debug\net7.0\Models.
 C:\Users\omerc\RiderProjects\Tourism\src\project\Models\obj\Debug\net7.0\refint\Models.dll
 C:\Users\omerc\RiderProjects\Tourism\src\project\Models\obj\Debug\net7.0\Models.pdb
 C:\Users\omerc\RiderProjects\Tourism\src\project\Models\obj\Debug\net7.0\ref\Models.dll
+C:\Users\omerc\RiderProjects\Tourism\src\project\Models\bin\Debug\net7.0\Core.Persistence.dll
+C:\Users\omerc\RiderProjects\Tourism\src\project\Models\bin\Debug\net7.0\Core.Security.dll
+C:\Users\omerc\RiderProjects\Tourism\src\project\Models\bin\Debug\net7.0\Core.Persistence.pdb
+C:\Users\omerc\RiderProjects\Tourism\src\project\Models\bin\Debug\net7.0\Core.Security.pdb
+C:\Users\omerc\RiderProjects\Tourism\src\project\Models\obj\Debug\net7.0\Models.sourcelink.json
+C:\Users\omerc\RiderProjects\Tourism\src\project\Models\obj\Debug\net7.0\Models.csproj.CopyComplete

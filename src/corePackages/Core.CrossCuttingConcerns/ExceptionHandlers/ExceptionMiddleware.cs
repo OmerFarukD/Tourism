@@ -9,10 +9,10 @@ public class ExceptionMiddleware
     private readonly HttpExceptionHandler _exceptionHandler;
     private readonly IHttpContextAccessor _httpContextAccessor;
 
-    public ExceptionMiddleware(RequestDelegate next, HttpExceptionHandler exceptionHandler, IHttpContextAccessor httpContextAccessor)
+    public ExceptionMiddleware(RequestDelegate next, IHttpContextAccessor httpContextAccessor)
     {
         _next = next;
-        _exceptionHandler = exceptionHandler;
+        _exceptionHandler = new HttpExceptionHandler();
         _httpContextAccessor = httpContextAccessor;
     }
 

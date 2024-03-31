@@ -10,3 +10,4 @@ C:\Users\omerc\RiderProjects\Tourism\src\corePackages\Core.CrossCuttingConcerns\
 C:\Users\omerc\RiderProjects\Tourism\src\corePackages\Core.CrossCuttingConcerns\obj\Debug\net7.0\refint\Core.CrossCuttingConcerns.dll
 C:\Users\omerc\RiderProjects\Tourism\src\corePackages\Core.CrossCuttingConcerns\obj\Debug\net7.0\Core.CrossCuttingConcerns.pdb
 C:\Users\omerc\RiderProjects\Tourism\src\corePackages\Core.CrossCuttingConcerns\obj\Debug\net7.0\ref\Core.CrossCuttingConcerns.dll
+C:\Users\omerc\RiderProjects\Tourism\src\corePackages\Core.CrossCuttingConcerns\obj\Debug\net7.0\Core.CrossCuttingConcerns.sourcelink.json

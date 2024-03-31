@@ -22,9 +22,9 @@ public class UserService : IUserService
         return created;
     }
 
-    public async Task<User> GetByEmailAsync(string email)
+    public async Task<User> GetByEmailAsync(string email, CancellationToken cancellationToken)
     {
-        var user = await _repository.GetAsync(x => x.Email == email);
+        var user = await _repository.GetAsync(x => x.Email == email,cancellationToken:cancellationToken);
         if (user is null)
         {
             throw new NotFoundException(Messages.UserNotFoundMessage);

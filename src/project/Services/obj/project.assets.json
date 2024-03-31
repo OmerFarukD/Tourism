@@ -2108,6 +2108,20 @@
           "bin/placeholder/Core.Security.dll": {}
         }
       },
+      "Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Core.Persistence": "1.0.0",
+          "Core.Security": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Models.dll": {}
+        }
+      },
       "Persistence/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -6284,6 +6298,11 @@
       "path": "../../corePackages/Core.Security/Core.Security.csproj",
       "msbuildProject": "../../corePackages/Core.Security/Core.Security.csproj"
     },
+    "Models/1.0.0": {
+      "type": "project",
+      "path": "../Models/Models.csproj",
+      "msbuildProject": "../Models/Models.csproj"
+    },
     "Persistence/1.0.0": {
       "type": "project",
       "path": "../Persistence/Persistence.csproj",
@@ -6293,6 +6312,7 @@
   "projectFileDependencyGroups": {
     "net7.0": [
       "Core.CrossCuttingConcerns >= 1.0.0",
+      "Models >= 1.0.0",
       "Persistence >= 1.0.0"
     ]
   },
@@ -6329,6 +6349,9 @@
           "projectReferences": {
             "C:\\Users\\omerc\\RiderProjects\\Tourism\\src\\corePackages\\Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj": {
               "projectPath": "C:\\Users\\omerc\\RiderProjects\\Tourism\\src\\corePackages\\Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj"
+            },
+            "C:\\Users\\omerc\\RiderProjects\\Tourism\\src\\project\\Models\\Models.csproj": {
+              "projectPath": "C:\\Users\\omerc\\RiderProjects\\Tourism\\src\\project\\Models\\Models.csproj"
             },
             "C:\\Users\\omerc\\RiderProjects\\Tourism\\src\\project\\Persistence\\Persistence.csproj": {
               "projectPath": "C:\\Users\\omerc\\RiderProjects\\Tourism\\src\\project\\Persistence\\Persistence.csproj"
