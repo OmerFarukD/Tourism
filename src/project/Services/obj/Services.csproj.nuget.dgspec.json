@@ -1,30 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\omerc\\RiderProjects\\Tourism\\src\\project\\Services\\Services.csproj": {}
+    "C:\\Users\\buggr\\OneDrive\\Masaüstü\\Tourism\\Tourism\\src\\project\\Services\\Services.csproj": {}
   },
   "projects": {
-    "C:\\Users\\omerc\\RiderProjects\\Tourism\\src\\corePackages\\Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj": {
+    "C:\\Users\\buggr\\OneDrive\\Masaüstü\\Tourism\\Tourism\\src\\corePackages\\Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\omerc\\RiderProjects\\Tourism\\src\\corePackages\\Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj",
+        "projectUniqueName": "C:\\Users\\buggr\\OneDrive\\Masaüstü\\Tourism\\Tourism\\src\\corePackages\\Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj",
         "projectName": "Core.CrossCuttingConcerns",
-        "projectPath": "C:\\Users\\omerc\\RiderProjects\\Tourism\\src\\corePackages\\Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj",
-        "packagesPath": "C:\\Users\\omerc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\omerc\\RiderProjects\\Tourism\\src\\corePackages\\Core.CrossCuttingConcerns\\obj\\",
+        "projectPath": "C:\\Users\\buggr\\OneDrive\\Masaüstü\\Tourism\\Tourism\\src\\corePackages\\Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj",
+        "packagesPath": "C:\\Users\\buggr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\buggr\\OneDrive\\Masaüstü\\Tourism\\Tourism\\src\\corePackages\\Core.CrossCuttingConcerns\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\omerc\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\buggr\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -37,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -79,50 +81,33 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[7.0.15, 7.0.15]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[7.0.15, 7.0.15]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[7.0.15, 7.0.15]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\omerc\\RiderProjects\\Tourism\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj": {
+    "C:\\Users\\buggr\\OneDrive\\Masaüstü\\Tourism\\Tourism\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\omerc\\RiderProjects\\Tourism\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\buggr\\OneDrive\\Masaüstü\\Tourism\\Tourism\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj",
         "projectName": "Core.Persistence",
-        "projectPath": "C:\\Users\\omerc\\RiderProjects\\Tourism\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj",
-        "packagesPath": "C:\\Users\\omerc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\omerc\\RiderProjects\\Tourism\\src\\corePackages\\Core.Persistence\\obj\\",
+        "projectPath": "C:\\Users\\buggr\\OneDrive\\Masaüstü\\Tourism\\Tourism\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj",
+        "packagesPath": "C:\\Users\\buggr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\buggr\\OneDrive\\Masaüstü\\Tourism\\Tourism\\src\\corePackages\\Core.Persistence\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\omerc\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\buggr\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -135,6 +120,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -157,58 +147,41 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[7.0.15, 7.0.15]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[7.0.15, 7.0.15]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[7.0.15, 7.0.15]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\omerc\\RiderProjects\\Tourism\\src\\corePackages\\Core.Security\\Core.Security.csproj": {
+    "C:\\Users\\buggr\\OneDrive\\Masaüstü\\Tourism\\Tourism\\src\\corePackages\\Core.Security\\Core.Security.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\omerc\\RiderProjects\\Tourism\\src\\corePackages\\Core.Security\\Core.Security.csproj",
+        "projectUniqueName": "C:\\Users\\buggr\\OneDrive\\Masaüstü\\Tourism\\Tourism\\src\\corePackages\\Core.Security\\Core.Security.csproj",
         "projectName": "Core.Security",
-        "projectPath": "C:\\Users\\omerc\\RiderProjects\\Tourism\\src\\corePackages\\Core.Security\\Core.Security.csproj",
-        "packagesPath": "C:\\Users\\omerc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\omerc\\RiderProjects\\Tourism\\src\\corePackages\\Core.Security\\obj\\",
+        "projectPath": "C:\\Users\\buggr\\OneDrive\\Masaüstü\\Tourism\\Tourism\\src\\corePackages\\Core.Security\\Core.Security.csproj",
+        "packagesPath": "C:\\Users\\buggr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\buggr\\OneDrive\\Masaüstü\\Tourism\\Tourism\\src\\corePackages\\Core.Security\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\omerc\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\buggr\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\omerc\\RiderProjects\\Tourism\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj": {
-                "projectPath": "C:\\Users\\omerc\\RiderProjects\\Tourism\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj"
+              "C:\\Users\\buggr\\OneDrive\\Masaüstü\\Tourism\\Tourism\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj": {
+                "projectPath": "C:\\Users\\buggr\\OneDrive\\Masaüstü\\Tourism\\Tourism\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj"
               }
             }
           }
@@ -217,6 +190,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -259,61 +237,44 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[7.0.15, 7.0.15]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[7.0.15, 7.0.15]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[7.0.15, 7.0.15]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\omerc\\RiderProjects\\Tourism\\src\\project\\Models\\Models.csproj": {
+    "C:\\Users\\buggr\\OneDrive\\Masaüstü\\Tourism\\Tourism\\src\\project\\Models\\Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\omerc\\RiderProjects\\Tourism\\src\\project\\Models\\Models.csproj",
+        "projectUniqueName": "C:\\Users\\buggr\\OneDrive\\Masaüstü\\Tourism\\Tourism\\src\\project\\Models\\Models.csproj",
         "projectName": "Models",
-        "projectPath": "C:\\Users\\omerc\\RiderProjects\\Tourism\\src\\project\\Models\\Models.csproj",
-        "packagesPath": "C:\\Users\\omerc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\omerc\\RiderProjects\\Tourism\\src\\project\\Models\\obj\\",
+        "projectPath": "C:\\Users\\buggr\\OneDrive\\Masaüstü\\Tourism\\Tourism\\src\\project\\Models\\Models.csproj",
+        "packagesPath": "C:\\Users\\buggr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\buggr\\OneDrive\\Masaüstü\\Tourism\\Tourism\\src\\project\\Models\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\omerc\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\buggr\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\omerc\\RiderProjects\\Tourism\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj": {
-                "projectPath": "C:\\Users\\omerc\\RiderProjects\\Tourism\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj"
+              "C:\\Users\\buggr\\OneDrive\\Masaüstü\\Tourism\\Tourism\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj": {
+                "projectPath": "C:\\Users\\buggr\\OneDrive\\Masaüstü\\Tourism\\Tourism\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj"
               },
-              "C:\\Users\\omerc\\RiderProjects\\Tourism\\src\\corePackages\\Core.Security\\Core.Security.csproj": {
-                "projectPath": "C:\\Users\\omerc\\RiderProjects\\Tourism\\src\\corePackages\\Core.Security\\Core.Security.csproj"
+              "C:\\Users\\buggr\\OneDrive\\Masaüstü\\Tourism\\Tourism\\src\\corePackages\\Core.Security\\Core.Security.csproj": {
+                "projectPath": "C:\\Users\\buggr\\OneDrive\\Masaüstü\\Tourism\\Tourism\\src\\corePackages\\Core.Security\\Core.Security.csproj"
               }
             }
           }
@@ -322,6 +283,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -338,58 +304,41 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[7.0.15, 7.0.15]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[7.0.15, 7.0.15]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[7.0.15, 7.0.15]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\omerc\\RiderProjects\\Tourism\\src\\project\\Persistence\\Persistence.csproj": {
+    "C:\\Users\\buggr\\OneDrive\\Masaüstü\\Tourism\\Tourism\\src\\project\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\omerc\\RiderProjects\\Tourism\\src\\project\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\buggr\\OneDrive\\Masaüstü\\Tourism\\Tourism\\src\\project\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "C:\\Users\\omerc\\RiderProjects\\Tourism\\src\\project\\Persistence\\Persistence.csproj",
-        "packagesPath": "C:\\Users\\omerc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\omerc\\RiderProjects\\Tourism\\src\\project\\Persistence\\obj\\",
+        "projectPath": "C:\\Users\\buggr\\OneDrive\\Masaüstü\\Tourism\\Tourism\\src\\project\\Persistence\\Persistence.csproj",
+        "packagesPath": "C:\\Users\\buggr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\buggr\\OneDrive\\Masaüstü\\Tourism\\Tourism\\src\\project\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\omerc\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\buggr\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\omerc\\RiderProjects\\Tourism\\src\\corePackages\\Core.Security\\Core.Security.csproj": {
-                "projectPath": "C:\\Users\\omerc\\RiderProjects\\Tourism\\src\\corePackages\\Core.Security\\Core.Security.csproj"
+              "C:\\Users\\buggr\\OneDrive\\Masaüstü\\Tourism\\Tourism\\src\\corePackages\\Core.Security\\Core.Security.csproj": {
+                "projectPath": "C:\\Users\\buggr\\OneDrive\\Masaüstü\\Tourism\\Tourism\\src\\corePackages\\Core.Security\\Core.Security.csproj"
               }
             }
           }
@@ -398,6 +347,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -432,64 +386,47 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[7.0.15, 7.0.15]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[7.0.15, 7.0.15]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[7.0.15, 7.0.15]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\omerc\\RiderProjects\\Tourism\\src\\project\\Services\\Services.csproj": {
+    "C:\\Users\\buggr\\OneDrive\\Masaüstü\\Tourism\\Tourism\\src\\project\\Services\\Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\omerc\\RiderProjects\\Tourism\\src\\project\\Services\\Services.csproj",
+        "projectUniqueName": "C:\\Users\\buggr\\OneDrive\\Masaüstü\\Tourism\\Tourism\\src\\project\\Services\\Services.csproj",
         "projectName": "Services",
-        "projectPath": "C:\\Users\\omerc\\RiderProjects\\Tourism\\src\\project\\Services\\Services.csproj",
-        "packagesPath": "C:\\Users\\omerc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\omerc\\RiderProjects\\Tourism\\src\\project\\Services\\obj\\",
+        "projectPath": "C:\\Users\\buggr\\OneDrive\\Masaüstü\\Tourism\\Tourism\\src\\project\\Services\\Services.csproj",
+        "packagesPath": "C:\\Users\\buggr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\buggr\\OneDrive\\Masaüstü\\Tourism\\Tourism\\src\\project\\Services\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\omerc\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\buggr\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\omerc\\RiderProjects\\Tourism\\src\\corePackages\\Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj": {
-                "projectPath": "C:\\Users\\omerc\\RiderProjects\\Tourism\\src\\corePackages\\Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj"
+              "C:\\Users\\buggr\\OneDrive\\Masaüstü\\Tourism\\Tourism\\src\\corePackages\\Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj": {
+                "projectPath": "C:\\Users\\buggr\\OneDrive\\Masaüstü\\Tourism\\Tourism\\src\\corePackages\\Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj"
               },
-              "C:\\Users\\omerc\\RiderProjects\\Tourism\\src\\project\\Models\\Models.csproj": {
-                "projectPath": "C:\\Users\\omerc\\RiderProjects\\Tourism\\src\\project\\Models\\Models.csproj"
+              "C:\\Users\\buggr\\OneDrive\\Masaüstü\\Tourism\\Tourism\\src\\project\\Models\\Models.csproj": {
+                "projectPath": "C:\\Users\\buggr\\OneDrive\\Masaüstü\\Tourism\\Tourism\\src\\project\\Models\\Models.csproj"
               },
-              "C:\\Users\\omerc\\RiderProjects\\Tourism\\src\\project\\Persistence\\Persistence.csproj": {
-                "projectPath": "C:\\Users\\omerc\\RiderProjects\\Tourism\\src\\project\\Persistence\\Persistence.csproj"
+              "C:\\Users\\buggr\\OneDrive\\Masaüstü\\Tourism\\Tourism\\src\\project\\Persistence\\Persistence.csproj": {
+                "projectPath": "C:\\Users\\buggr\\OneDrive\\Masaüstü\\Tourism\\Tourism\\src\\project\\Persistence\\Persistence.csproj"
               }
             }
           }
@@ -498,6 +435,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -514,26 +456,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[7.0.15, 7.0.15]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[7.0.15, 7.0.15]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[7.0.15, 7.0.15]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

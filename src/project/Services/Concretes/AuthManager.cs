@@ -2,6 +2,8 @@ using Core.Security.Entities;
 using Core.Security.JWT;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
+using Models.Dros.Requests;
+using Models.Entities;
 using Persistence.Repository.Abstract;
 using Services.Abstracts;
 
@@ -49,6 +51,7 @@ public class AuthManager : IAuthService
 
     public async Task<RefreshToken> AddRefreshToken(RefreshToken refreshToken)
     {
+
         RefreshToken addedRefreshToken = await _refreshTokenRepository.AddAsync(refreshToken);
         return addedRefreshToken;
     }

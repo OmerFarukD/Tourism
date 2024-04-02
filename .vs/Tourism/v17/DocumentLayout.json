@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\buggr\\OneDrive\\Masa\u00FCst\u00FC\\Tourism\\Tourism\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A1C160-2AB1-4D4F-B51B-091FEDEA400E}|src\\project\\Models\\Models.csproj|c:\\users\\buggr\\onedrive\\masa\u00FCst\u00FC\\tourism\\tourism\\src\\project\\models\\entities\\place.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A1C160-2AB1-4D4F-B51B-091FEDEA400E}|src\\project\\Models\\Models.csproj|solutionrelative:src\\project\\models\\entities\\place.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A1C160-2AB1-4D4F-B51B-091FEDEA400E}|src\\project\\Models\\Models.csproj|c:\\users\\buggr\\onedrive\\masa\u00FCst\u00FC\\tourism\\tourism\\src\\project\\models\\dros\\requests\\placeupdaterequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A1C160-2AB1-4D4F-B51B-091FEDEA400E}|src\\project\\Models\\Models.csproj|solutionrelative:src\\project\\models\\dros\\requests\\placeupdaterequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A1C160-2AB1-4D4F-B51B-091FEDEA400E}|src\\project\\Models\\Models.csproj|c:\\users\\buggr\\onedrive\\masa\u00FCst\u00FC\\tourism\\tourism\\src\\project\\models\\dros\\requests\\placeaddrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A1C160-2AB1-4D4F-B51B-091FEDEA400E}|src\\project\\Models\\Models.csproj|solutionrelative:src\\project\\models\\dros\\requests\\placeaddrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A1C160-2AB1-4D4F-B51B-091FEDEA400E}|src\\project\\Models\\Models.csproj|c:\\users\\buggr\\onedrive\\masa\u00FCst\u00FC\\tourism\\tourism\\src\\project\\models\\dros\\responses\\placeresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A1C160-2AB1-4D4F-B51B-091FEDEA400E}|src\\project\\Models\\Models.csproj|solutionrelative:src\\project\\models\\dros\\responses\\placeresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A1C160-2AB1-4D4F-B51B-091FEDEA400E}|src\\project\\Models\\Models.csproj|c:\\users\\buggr\\onedrive\\masa\u00FCst\u00FC\\tourism\\tourism\\src\\project\\models\\dros\\responses\\registerresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A1C160-2AB1-4D4F-B51B-091FEDEA400E}|src\\project\\Models\\Models.csproj|solutionrelative:src\\project\\models\\dros\\responses\\registerresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A1C160-2AB1-4D4F-B51B-091FEDEA400E}|src\\project\\Models\\Models.csproj|c:\\users\\buggr\\onedrive\\masa\u00FCst\u00FC\\tourism\\tourism\\src\\project\\models\\dros\\responses\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A1C160-2AB1-4D4F-B51B-091FEDEA400E}|src\\project\\Models\\Models.csproj|solutionrelative:src\\project\\models\\dros\\responses\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{706F57E8-732E-45F7-BBCE-D5B5931EEE47}|src\\project\\Services\\Services.csproj|c:\\users\\buggr\\onedrive\\masa\u00FCst\u00FC\\tourism\\tourism\\src\\project\\services\\concretes\\authmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{706F57E8-732E-45F7-BBCE-D5B5931EEE47}|src\\project\\Services\\Services.csproj|solutionrelative:src\\project\\services\\concretes\\authmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61BA951B-9917-4A13-AAAB-4446487A4C08}|src\\corePackages\\Core.Security\\Core.Security.csproj|c:\\users\\buggr\\onedrive\\masa\u00FCst\u00FC\\tourism\\tourism\\src\\corepackages\\core.security\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61BA951B-9917-4A13-AAAB-4446487A4C08}|src\\corePackages\\Core.Security\\Core.Security.csproj|solutionrelative:src\\corepackages\\core.security\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A1C160-2AB1-4D4F-B51B-091FEDEA400E}|src\\project\\Models\\Models.csproj|c:\\users\\buggr\\onedrive\\masa\u00FCst\u00FC\\tourism\\tourism\\src\\project\\models\\entities\\placesimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A1C160-2AB1-4D4F-B51B-091FEDEA400E}|src\\project\\Models\\Models.csproj|solutionrelative:src\\project\\models\\entities\\placesimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Place.cs",
+              "DocumentMoniker": "C:\\Users\\buggr\\OneDrive\\Masa\u00FCst\u00FC\\Tourism\\Tourism\\src\\project\\Models\\Entities\\Place.cs",
+              "RelativeDocumentMoniker": "src\\project\\Models\\Entities\\Place.cs",
+              "ToolTip": "C:\\Users\\buggr\\OneDrive\\Masa\u00FCst\u00FC\\Tourism\\Tourism\\src\\project\\Models\\Entities\\Place.cs",
+              "RelativeToolTip": "src\\project\\Models\\Entities\\Place.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T22:51:54.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlaceUpdateRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\buggr\\OneDrive\\Masa\u00FCst\u00FC\\Tourism\\Tourism\\src\\project\\Models\\Dros\\Requests\\PlaceUpdateRequestDto.cs",
+              "RelativeDocumentMoniker": "src\\project\\Models\\Dros\\Requests\\PlaceUpdateRequestDto.cs",
+              "ToolTip": "C:\\Users\\buggr\\OneDrive\\Masa\u00FCst\u00FC\\Tourism\\Tourism\\src\\project\\Models\\Dros\\Requests\\PlaceUpdateRequestDto.cs",
+              "RelativeToolTip": "src\\project\\Models\\Dros\\Requests\\PlaceUpdateRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T22:50:44.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\buggr\\OneDrive\\Masa\u00FCst\u00FC\\Tourism\\Tourism\\src\\project\\Models\\Dros\\Responses\\RegisterResponseDto.cs",
+              "RelativeDocumentMoniker": "src\\project\\Models\\Dros\\Responses\\RegisterResponseDto.cs",
+              "ToolTip": "C:\\Users\\buggr\\OneDrive\\Masa\u00FCst\u00FC\\Tourism\\Tourism\\src\\project\\Models\\Dros\\Responses\\RegisterResponseDto.cs",
+              "RelativeToolTip": "src\\project\\Models\\Dros\\Responses\\RegisterResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T22:50:11.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\buggr\\OneDrive\\Masa\u00FCst\u00FC\\Tourism\\Tourism\\src\\project\\Models\\Dros\\Responses\\LoginResponseDto.cs",
+              "RelativeDocumentMoniker": "src\\project\\Models\\Dros\\Responses\\LoginResponseDto.cs",
+              "ToolTip": "C:\\Users\\buggr\\OneDrive\\Masa\u00FCst\u00FC\\Tourism\\Tourism\\src\\project\\Models\\Dros\\Responses\\LoginResponseDto.cs",
+              "RelativeToolTip": "src\\project\\Models\\Dros\\Responses\\LoginResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T22:49:54.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlaceResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\buggr\\OneDrive\\Masa\u00FCst\u00FC\\Tourism\\Tourism\\src\\project\\Models\\Dros\\Responses\\PlaceResponseDto.cs",
+              "RelativeDocumentMoniker": "src\\project\\Models\\Dros\\Responses\\PlaceResponseDto.cs",
+              "ToolTip": "C:\\Users\\buggr\\OneDrive\\Masa\u00FCst\u00FC\\Tourism\\Tourism\\src\\project\\Models\\Dros\\Responses\\PlaceResponseDto.cs",
+              "RelativeToolTip": "src\\project\\Models\\Dros\\Responses\\PlaceResponseDto.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T22:30:57.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthManager.cs",
+              "DocumentMoniker": "C:\\Users\\buggr\\OneDrive\\Masa\u00FCst\u00FC\\Tourism\\Tourism\\src\\project\\Services\\Concretes\\AuthManager.cs",
+              "RelativeDocumentMoniker": "src\\project\\Services\\Concretes\\AuthManager.cs",
+              "ToolTip": "C:\\Users\\buggr\\OneDrive\\Masa\u00FCst\u00FC\\Tourism\\Tourism\\src\\project\\Services\\Concretes\\AuthManager.cs",
+              "RelativeToolTip": "src\\project\\Services\\Concretes\\AuthManager.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAowDQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T22:27:11.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlaceAddRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\buggr\\OneDrive\\Masa\u00FCst\u00FC\\Tourism\\Tourism\\src\\project\\Models\\Dros\\Requests\\PlaceAddRequestDto.cs",
+              "RelativeDocumentMoniker": "src\\project\\Models\\Dros\\Requests\\PlaceAddRequestDto.cs",
+              "ToolTip": "C:\\Users\\buggr\\OneDrive\\Masa\u00FCst\u00FC\\Tourism\\Tourism\\src\\project\\Models\\Dros\\Requests\\PlaceAddRequestDto.cs",
+              "RelativeToolTip": "src\\project\\Models\\Dros\\Requests\\PlaceAddRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T22:20:05.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\buggr\\OneDrive\\Masa\u00FCst\u00FC\\Tourism\\Tourism\\src\\corePackages\\Core.Security\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "src\\corePackages\\Core.Security\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\buggr\\OneDrive\\Masa\u00FCst\u00FC\\Tourism\\Tourism\\src\\corePackages\\Core.Security\\Entities\\User.cs",
+              "RelativeToolTip": "src\\corePackages\\Core.Security\\Entities\\User.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T21:48:41.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlacesImage.cs",
+              "DocumentMoniker": "C:\\Users\\buggr\\OneDrive\\Masa\u00FCst\u00FC\\Tourism\\Tourism\\src\\project\\Models\\Entities\\PlacesImage.cs",
+              "RelativeDocumentMoniker": "src\\project\\Models\\Entities\\PlacesImage.cs",
+              "ToolTip": "C:\\Users\\buggr\\OneDrive\\Masa\u00FCst\u00FC\\Tourism\\Tourism\\src\\project\\Models\\Entities\\PlacesImage.cs",
+              "RelativeToolTip": "src\\project\\Models\\Entities\\PlacesImage.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T21:47:36.645Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
