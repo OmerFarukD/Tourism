@@ -10,6 +10,7 @@ public class User : Entity<int>
     public string Email { get; set; }
     public byte[] PasswordSalt { get; set; }
     public byte[] PasswordHash { get; set; }
+    
     public bool Status { get; set; }
     public AuthenticatorType AuthenticatorType { get; set; }
 

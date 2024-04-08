@@ -21,7 +21,7 @@ public class UserService : IUserService
         var created = await _repository.AddAsync(user);
         return created;
     }
-
+    
     public async Task<User> GetByEmailAsync(string email, CancellationToken cancellationToken)
     {
         var user = await _repository.GetAsync(x => x.Email == email,cancellationToken:cancellationToken);

@@ -1,0 +1,454 @@
+<changelist name="Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]" date="1712602147651" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Update at 8.04.2024 21:49 [Changes]" />
+  <binary>
+    <option name="BEFORE_PATH" value="src/project/Persistence/obj/Debug/net7.0/ref/Persistence.dll" />
+    <option name="AFTER_PATH" value="src/project/Persistence/obj/Debug/net7.0/ref/Persistence.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Persistence.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/project/Services/bin/Debug/net7.0/Core.Security.pdb" />
+    <option name="AFTER_PATH" value="src/project/Services/bin/Debug/net7.0/Core.Security.pdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Core.Security.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/corePackages/Core.CrossCuttingConcerns/obj/Debug/net7.0/Core.CrossCuttingConcerns.pdb" />
+    <option name="AFTER_PATH" value="src/corePackages/Core.CrossCuttingConcerns/obj/Debug/net7.0/Core.CrossCuttingConcerns.pdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Core.CrossCuttingConcerns.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/project/Persistence/bin/Debug/net7.0/Core.Persistence.pdb" />
+    <option name="AFTER_PATH" value="src/project/Persistence/bin/Debug/net7.0/Core.Persistence.pdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Core.Persistence.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/project/Web.API/obj/Debug/net7.0/refint/Web.API.dll" />
+    <option name="AFTER_PATH" value="src/project/Web.API/obj/Debug/net7.0/refint/Web.API.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Web.API.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/corePackages/Core.Security/obj/Debug/net7.0/ref/Core.Security.dll" />
+    <option name="AFTER_PATH" value="src/corePackages/Core.Security/obj/Debug/net7.0/ref/Core.Security.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Core.Security.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/project/Persistence/bin/Debug/net7.0/Core.Security.pdb" />
+    <option name="AFTER_PATH" value="src/project/Persistence/bin/Debug/net7.0/Core.Security.pdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Core.Security1.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/project/Web.API/bin/Debug/net7.0/Persistence.dll" />
+    <option name="AFTER_PATH" value="src/project/Web.API/bin/Debug/net7.0/Persistence.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Persistence1.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/project/Services/bin/Debug/net7.0/Core.Persistence.pdb" />
+    <option name="AFTER_PATH" value="src/project/Services/bin/Debug/net7.0/Core.Persistence.pdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Core.Persistence1.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/project/Web.API/bin/Debug/net7.0/Services.pdb" />
+    <option name="AFTER_PATH" value="src/project/Web.API/bin/Debug/net7.0/Services.pdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Services.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/project/Web.API/bin/Debug/net7.0/Models.dll" />
+    <option name="AFTER_PATH" value="src/project/Web.API/bin/Debug/net7.0/Models.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Models.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/project/Services/bin/Debug/net7.0/Core.CrossCuttingConcerns.pdb" />
+    <option name="AFTER_PATH" value="src/project/Services/bin/Debug/net7.0/Core.CrossCuttingConcerns.pdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Core.CrossCuttingConcerns1.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/project/Admin.UI/obj/Debug/net7.0/Admin.UI.AssemblyInfoInputs.cache" />
+    <option name="AFTER_PATH" value="src/project/Admin.UI/obj/Debug/net7.0/Admin.UI.AssemblyInfoInputs.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Admin.UI.AssemblyInfoInputs.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/project/Web.API/obj/Debug/net7.0/Web.API.pdb" />
+    <option name="AFTER_PATH" value="src/project/Web.API/obj/Debug/net7.0/Web.API.pdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Web.API.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/project/Web.API/bin/Debug/net7.0/Core.CrossCuttingConcerns.dll" />
+    <option name="AFTER_PATH" value="src/project/Web.API/bin/Debug/net7.0/Core.CrossCuttingConcerns.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Core.CrossCuttingConcerns.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/project/Web.API/bin/Debug/net7.0/Core.Security.dll" />
+    <option name="AFTER_PATH" value="src/project/Web.API/bin/Debug/net7.0/Core.Security.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Core.Security1.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/project/Services/obj/Debug/net7.0/ref/Services.dll" />
+    <option name="AFTER_PATH" value="src/project/Services/obj/Debug/net7.0/ref/Services.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Services.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/project/Services/obj/Debug/net7.0/Services.dll" />
+    <option name="AFTER_PATH" value="src/project/Services/obj/Debug/net7.0/Services.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Services1.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/project/Models/bin/Debug/net7.0/Core.Persistence.dll" />
+    <option name="AFTER_PATH" value="src/project/Models/bin/Debug/net7.0/Core.Persistence.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Core.Persistence.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/corePackages/Core.Security/obj/Debug/net7.0/Core.Security.AssemblyInfoInputs.cache" />
+    <option name="AFTER_PATH" value="src/corePackages/Core.Security/obj/Debug/net7.0/Core.Security.AssemblyInfoInputs.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Core.Security.AssemblyInfoInputs.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/project/Models/obj/Debug/net7.0/refint/Models.dll" />
+    <option name="AFTER_PATH" value="src/project/Models/obj/Debug/net7.0/refint/Models.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Models1.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/project/Services/bin/Debug/net7.0/Core.Persistence.dll" />
+    <option name="AFTER_PATH" value="src/project/Services/bin/Debug/net7.0/Core.Persistence.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Core.Persistence1.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/project/Web.API/bin/Debug/net7.0/Models.pdb" />
+    <option name="AFTER_PATH" value="src/project/Web.API/bin/Debug/net7.0/Models.pdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Models.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/corePackages/Core.CrossCuttingConcerns/bin/Debug/net7.0/Core.CrossCuttingConcerns.dll" />
+    <option name="AFTER_PATH" value="src/corePackages/Core.CrossCuttingConcerns/bin/Debug/net7.0/Core.CrossCuttingConcerns.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Core.CrossCuttingConcerns1.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/project/Web.API/obj/Debug/net7.0/Web.API.AssemblyInfoInputs.cache" />
+    <option name="AFTER_PATH" value="src/project/Web.API/obj/Debug/net7.0/Web.API.AssemblyInfoInputs.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Web.API.AssemblyInfoInputs.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/project/Persistence/obj/Debug/net7.0/Persistence.csproj.AssemblyReference.cache" />
+    <option name="AFTER_PATH" value="src/project/Persistence/obj/Debug/net7.0/Persistence.csproj.AssemblyReference.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Persistence.csproj.AssemblyReference.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/project/Models/bin/Debug/net7.0/Core.Security.dll" />
+    <option name="AFTER_PATH" value="src/project/Models/bin/Debug/net7.0/Core.Security.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Core.Security2.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/project/Web.API/bin/Debug/net7.0/Core.Security.pdb" />
+    <option name="AFTER_PATH" value="src/project/Web.API/bin/Debug/net7.0/Core.Security.pdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Core.Security2.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/corePackages/Core.CrossCuttingConcerns/obj/Debug/net7.0/Core.CrossCuttingConcerns.dll" />
+    <option name="AFTER_PATH" value="src/corePackages/Core.CrossCuttingConcerns/obj/Debug/net7.0/Core.CrossCuttingConcerns.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Core.CrossCuttingConcerns2.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/project/Models/obj/Debug/net7.0/Models.dll" />
+    <option name="AFTER_PATH" value="src/project/Models/obj/Debug/net7.0/Models.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Models2.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/project/Services/bin/Debug/net7.0/Core.Security.dll" />
+    <option name="AFTER_PATH" value="src/project/Services/bin/Debug/net7.0/Core.Security.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Core.Security3.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/corePackages/Core.Security/obj/Debug/net7.0/refint/Core.Security.dll" />
+    <option name="AFTER_PATH" value="src/corePackages/Core.Security/obj/Debug/net7.0/refint/Core.Security.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Core.Security4.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/corePackages/Core.CrossCuttingConcerns/obj/Debug/net7.0/refint/Core.CrossCuttingConcerns.dll" />
+    <option name="AFTER_PATH" value="src/corePackages/Core.CrossCuttingConcerns/obj/Debug/net7.0/refint/Core.CrossCuttingConcerns.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Core.CrossCuttingConcerns3.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/project/Services/bin/Debug/net7.0/Models.pdb" />
+    <option name="AFTER_PATH" value="src/project/Services/bin/Debug/net7.0/Models.pdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Models1.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/project/Web.API/bin/Debug/net7.0/Core.Persistence.pdb" />
+    <option name="AFTER_PATH" value="src/project/Web.API/bin/Debug/net7.0/Core.Persistence.pdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Core.Persistence2.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/project/Web.API/obj/Debug/net7.0/ref/Web.API.dll" />
+    <option name="AFTER_PATH" value="src/project/Web.API/obj/Debug/net7.0/ref/Web.API.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Web.API1.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/project/Admin.UI/obj/Debug/net7.0/Admin.UI.csproj.AssemblyReference.cache" />
+    <option name="AFTER_PATH" value="src/project/Admin.UI/obj/Debug/net7.0/Admin.UI.csproj.AssemblyReference.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Admin.UI.csproj.AssemblyReference.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/corePackages/Core.Persistence/bin/Debug/net7.0/Core.Persistence.dll" />
+    <option name="AFTER_PATH" value="src/corePackages/Core.Persistence/bin/Debug/net7.0/Core.Persistence.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Core.Persistence2.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/project/Web.API/bin/Debug/net7.0/Web.API.pdb" />
+    <option name="AFTER_PATH" value="src/project/Web.API/bin/Debug/net7.0/Web.API.pdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Web.API1.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/corePackages/Core.CrossCuttingConcerns/obj/Debug/net7.0/Core.CrossCuttingConcerns.AssemblyInfoInputs.cache" />
+    <option name="AFTER_PATH" value="src/corePackages/Core.CrossCuttingConcerns/obj/Debug/net7.0/Core.CrossCuttingConcerns.AssemblyInfoInputs.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Core.CrossCuttingConcerns.AssemblyInfoInputs.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/corePackages/Core.Persistence/obj/Debug/net7.0/ref/Core.Persistence.dll" />
+    <option name="AFTER_PATH" value="src/corePackages/Core.Persistence/obj/Debug/net7.0/ref/Core.Persistence.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Core.Persistence3.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/corePackages/Core.Security/obj/Debug/net7.0/Core.Security.pdb" />
+    <option name="AFTER_PATH" value="src/corePackages/Core.Security/obj/Debug/net7.0/Core.Security.pdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Core.Security3.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/project/Services/obj/Debug/net7.0/refint/Services.dll" />
+    <option name="AFTER_PATH" value="src/project/Services/obj/Debug/net7.0/refint/Services.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Services2.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/project/Models/bin/Debug/net7.0/Models.dll" />
+    <option name="AFTER_PATH" value="src/project/Models/bin/Debug/net7.0/Models.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Models3.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/project/Persistence/obj/Debug/net7.0/Persistence.dll" />
+    <option name="AFTER_PATH" value="src/project/Persistence/obj/Debug/net7.0/Persistence.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Persistence2.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/project/Web.API/bin/Debug/net7.0/Core.CrossCuttingConcerns.pdb" />
+    <option name="AFTER_PATH" value="src/project/Web.API/bin/Debug/net7.0/Core.CrossCuttingConcerns.pdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Core.CrossCuttingConcerns2.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/corePackages/Core.Persistence/obj/Debug/net7.0/Core.Persistence.dll" />
+    <option name="AFTER_PATH" value="src/corePackages/Core.Persistence/obj/Debug/net7.0/Core.Persistence.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Core.Persistence4.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/project/Persistence/bin/Debug/net7.0/Persistence.pdb" />
+    <option name="AFTER_PATH" value="src/project/Persistence/bin/Debug/net7.0/Persistence.pdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Persistence.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/project/Services/bin/Debug/net7.0/Services.pdb" />
+    <option name="AFTER_PATH" value="src/project/Services/bin/Debug/net7.0/Services.pdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Services1.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/project/Models/obj/Debug/net7.0/Models.pdb" />
+    <option name="AFTER_PATH" value="src/project/Models/obj/Debug/net7.0/Models.pdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Models2.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/project/Services/bin/Debug/net7.0/Persistence.dll" />
+    <option name="AFTER_PATH" value="src/project/Services/bin/Debug/net7.0/Persistence.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Persistence3.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/project/Models/bin/Debug/net7.0/Core.Security.pdb" />
+    <option name="AFTER_PATH" value="src/project/Models/bin/Debug/net7.0/Core.Security.pdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Core.Security4.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/project/Web.API/obj/Debug/net7.0/Web.API.dll" />
+    <option name="AFTER_PATH" value="src/project/Web.API/obj/Debug/net7.0/Web.API.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Web.API2.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/corePackages/Core.Security/bin/Debug/net7.0/Core.Persistence.dll" />
+    <option name="AFTER_PATH" value="src/corePackages/Core.Security/bin/Debug/net7.0/Core.Persistence.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Core.Persistence5.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/project/Persistence/obj/Debug/net7.0/refint/Persistence.dll" />
+    <option name="AFTER_PATH" value="src/project/Persistence/obj/Debug/net7.0/refint/Persistence.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Persistence4.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/project/Models/obj/Debug/net7.0/Models.csproj.AssemblyReference.cache" />
+    <option name="AFTER_PATH" value="src/project/Models/obj/Debug/net7.0/Models.csproj.AssemblyReference.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Models.csproj.AssemblyReference.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/project/Services/obj/Debug/net7.0/Services.AssemblyInfoInputs.cache" />
+    <option name="AFTER_PATH" value="src/project/Services/obj/Debug/net7.0/Services.AssemblyInfoInputs.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Services.AssemblyInfoInputs.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/project/Web.API/obj/Debug/net7.0/Web.API.csproj.AssemblyReference.cache" />
+    <option name="AFTER_PATH" value="src/project/Web.API/obj/Debug/net7.0/Web.API.csproj.AssemblyReference.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Web.API.csproj.AssemblyReference.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/project/Services/bin/Debug/net7.0/Models.dll" />
+    <option name="AFTER_PATH" value="src/project/Services/bin/Debug/net7.0/Models.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Models4.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/project/Services/obj/Debug/net7.0/Services.csproj.AssemblyReference.cache" />
+    <option name="AFTER_PATH" value="src/project/Services/obj/Debug/net7.0/Services.csproj.AssemblyReference.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Services.csproj.AssemblyReference.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/corePackages/Core.Security/obj/Debug/net7.0/Core.Security.csproj.AssemblyReference.cache" />
+    <option name="AFTER_PATH" value="src/corePackages/Core.Security/obj/Debug/net7.0/Core.Security.csproj.AssemblyReference.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Core.Security.csproj.AssemblyReference.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/corePackages/Core.Persistence/obj/Debug/net7.0/Core.Persistence.AssemblyInfoInputs.cache" />
+    <option name="AFTER_PATH" value="src/corePackages/Core.Persistence/obj/Debug/net7.0/Core.Persistence.AssemblyInfoInputs.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Core.Persistence.AssemblyInfoInputs.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/project/Web.API/bin/Debug/net7.0/Services.dll" />
+    <option name="AFTER_PATH" value="src/project/Web.API/bin/Debug/net7.0/Services.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Services3.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/project/Services/obj/Debug/net7.0/Services.pdb" />
+    <option name="AFTER_PATH" value="src/project/Services/obj/Debug/net7.0/Services.pdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Services2.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/corePackages/Core.CrossCuttingConcerns/bin/Debug/net7.0/Core.CrossCuttingConcerns.pdb" />
+    <option name="AFTER_PATH" value="src/corePackages/Core.CrossCuttingConcerns/bin/Debug/net7.0/Core.CrossCuttingConcerns.pdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Core.CrossCuttingConcerns3.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/corePackages/Core.Security/bin/Debug/net7.0/Core.Security.dll" />
+    <option name="AFTER_PATH" value="src/corePackages/Core.Security/bin/Debug/net7.0/Core.Security.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Core.Security5.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/corePackages/Core.Security/bin/Debug/net7.0/Core.Security.pdb" />
+    <option name="AFTER_PATH" value="src/corePackages/Core.Security/bin/Debug/net7.0/Core.Security.pdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Core.Security5.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/project/Models/bin/Debug/net7.0/Core.Persistence.pdb" />
+    <option name="AFTER_PATH" value="src/project/Models/bin/Debug/net7.0/Core.Persistence.pdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Core.Persistence3.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/corePackages/Core.Security/bin/Debug/net7.0/Core.Persistence.pdb" />
+    <option name="AFTER_PATH" value="src/corePackages/Core.Security/bin/Debug/net7.0/Core.Persistence.pdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Core.Persistence4.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/project/Web.API/obj/Debug/net7.0/apphost.exe" />
+    <option name="AFTER_PATH" value="src/project/Web.API/obj/Debug/net7.0/apphost.exe" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/apphost.exe" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/project/Services/bin/Debug/net7.0/Persistence.pdb" />
+    <option name="AFTER_PATH" value="src/project/Services/bin/Debug/net7.0/Persistence.pdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Persistence1.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/project/Persistence/bin/Debug/net7.0/Persistence.dll" />
+    <option name="AFTER_PATH" value="src/project/Persistence/bin/Debug/net7.0/Persistence.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Persistence5.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/project/Services/bin/Debug/net7.0/Services.dll" />
+    <option name="AFTER_PATH" value="src/project/Services/bin/Debug/net7.0/Services.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Services4.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/corePackages/Core.CrossCuttingConcerns/obj/Debug/net7.0/ref/Core.CrossCuttingConcerns.dll" />
+    <option name="AFTER_PATH" value="src/corePackages/Core.CrossCuttingConcerns/obj/Debug/net7.0/ref/Core.CrossCuttingConcerns.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Core.CrossCuttingConcerns4.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/project/Persistence/bin/Debug/net7.0/Core.Security.dll" />
+    <option name="AFTER_PATH" value="src/project/Persistence/bin/Debug/net7.0/Core.Security.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Core.Security6.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/corePackages/Core.Persistence/obj/Debug/net7.0/refint/Core.Persistence.dll" />
+    <option name="AFTER_PATH" value="src/corePackages/Core.Persistence/obj/Debug/net7.0/refint/Core.Persistence.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Core.Persistence6.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/project/Models/obj/Debug/net7.0/ref/Models.dll" />
+    <option name="AFTER_PATH" value="src/project/Models/obj/Debug/net7.0/ref/Models.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Models5.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/project/Services/bin/Debug/net7.0/Core.CrossCuttingConcerns.dll" />
+    <option name="AFTER_PATH" value="src/project/Services/bin/Debug/net7.0/Core.CrossCuttingConcerns.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Core.CrossCuttingConcerns5.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/project/Persistence/obj/Debug/net7.0/Persistence.pdb" />
+    <option name="AFTER_PATH" value="src/project/Persistence/obj/Debug/net7.0/Persistence.pdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Persistence2.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/corePackages/Core.Persistence/bin/Debug/net7.0/Core.Persistence.pdb" />
+    <option name="AFTER_PATH" value="src/corePackages/Core.Persistence/bin/Debug/net7.0/Core.Persistence.pdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Core.Persistence5.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/project/Persistence/bin/Debug/net7.0/Core.Persistence.dll" />
+    <option name="AFTER_PATH" value="src/project/Persistence/bin/Debug/net7.0/Core.Persistence.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Core.Persistence7.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/project/Web.API/bin/Debug/net7.0/Core.Persistence.dll" />
+    <option name="AFTER_PATH" value="src/project/Web.API/bin/Debug/net7.0/Core.Persistence.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Core.Persistence8.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/project/Web.API/bin/Debug/net7.0/Persistence.pdb" />
+    <option name="AFTER_PATH" value="src/project/Web.API/bin/Debug/net7.0/Persistence.pdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Persistence3.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/project/Models/obj/Debug/net7.0/Models.AssemblyInfoInputs.cache" />
+    <option name="AFTER_PATH" value="src/project/Models/obj/Debug/net7.0/Models.AssemblyInfoInputs.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Models.AssemblyInfoInputs.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/corePackages/Core.Persistence/obj/Debug/net7.0/Core.Persistence.pdb" />
+    <option name="AFTER_PATH" value="src/corePackages/Core.Persistence/obj/Debug/net7.0/Core.Persistence.pdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Core.Persistence6.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/project/Web.API/bin/Debug/net7.0/Web.API.exe" />
+    <option name="AFTER_PATH" value="src/project/Web.API/bin/Debug/net7.0/Web.API.exe" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Web.API.exe" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/project/Web.API/bin/Debug/net7.0/Web.API.dll" />
+    <option name="AFTER_PATH" value="src/project/Web.API/bin/Debug/net7.0/Web.API.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Web.API3.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/project/Models/bin/Debug/net7.0/Models.pdb" />
+    <option name="AFTER_PATH" value="src/project/Models/bin/Debug/net7.0/Models.pdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Models3.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/corePackages/Core.Security/obj/Debug/net7.0/Core.Security.dll" />
+    <option name="AFTER_PATH" value="src/corePackages/Core.Security/obj/Debug/net7.0/Core.Security.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Core.Security7.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="src/project/Persistence/obj/Debug/net7.0/Persistence.AssemblyInfoInputs.cache" />
+    <option name="AFTER_PATH" value="src/project/Persistence/obj/Debug/net7.0/Persistence.AssemblyInfoInputs.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tourism/.idea/shelf/Uncommitted_changes_before_Update_at_8_04_2024_21_49_[Changes]/Persistence.AssemblyInfoInputs.cache" />
+  </binary>
+</changelist>
